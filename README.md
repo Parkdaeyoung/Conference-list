@@ -2,6 +2,7 @@
 * ASPLOS - International Conference on Architectural Support for Programming Languages and Operating Systems
 * ISCA - International Symposium on Computer Architecture
 * MICRO - IEEE/ACM International Symposium on Microarchitecture
+* HPCA - IEEE International Symposium on High Performance Computer Architecture
 ---
 
 # High Performance Computing
