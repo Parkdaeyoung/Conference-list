@@ -5,9 +5,15 @@
 * HPCA - IEEE International Symposium on High Performance Computer Architecture
 ---
 
-# High Performance Computing
-* HiPC - International Conference on High Performance Computing
-* SC - ACM/IEEE Supercomputing Conference
+# High Performance Computing (Supercomputing)
+* HiPC - International Conference on High Performance Computing, Data and Analytics
+* SC - The International Conference for High Performance Computing, Networking, Storage, and Analysis
+* ICS - International Conference on Supercomputing 
+* HPDC - International ACM Symposium on High-Performance Parallel and Distributed Computing
+---
+
+# Quantum Computing
+
 ---
 
 # Concurrent, distributed, and parallel computing, fault-tolerant systems, and dependable systems, 
